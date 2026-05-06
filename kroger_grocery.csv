@@ -1,0 +1,99 @@
+product_id,upc,name,brand,category,price_usd,size,cal,protein_g,fiber_g,fat_g,carbs_g,vitC_mg,vitA_mcg,nutrition_score,id
+0001111042908,0001111042908,Simple Truth Organic® Vitamin D Whole Milk Gallon,Simple Truth Organic,Dairy,6.99,1 gal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1
+0009396600742,0009396600742,Organic Valley® Whole Milk Gallon,Organic Valley,Dairy,8.99,128 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2
+0007203673802,0007203673802,Harris Teeter™ Vitamin D Whole Milk Gallon,Harris Teeter,Dairy,4.39,1 gal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3
+0007203663217,0007203663217,Harris Teeter Large White Eggs,Harris Teeter,Dairy,2.99,18 ct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4
+0071514150349,0071514150349,"Eggland's Best Classic Large White Eggs, 12 count",Eggland's Best,Dairy,4.69,12 ct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5
+0007203663220,0007203663220,Harris Teeter Large Grade A White Eggs,Harris Teeter,Dairy,2.29,12 ct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6
+0003663201953,0003663201953,Oikos Triple Zero Vanilla High Protein Nonfat Greek Yogurt Cups,Oikos,Dairy,6.19,"5.3 oz., 4 pack",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7
+0003663201944,0003663201944,Oikos Triple Zero Vanilla High Protein Nonfat Greek Yogurt Tub,Oikos,Dairy,7.49,32 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8
+0089470001043,0089470001043,Chobani® Whole Milk Plain Greek Yogurt Tub,Chobani,Dairy,5.0,32 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9
+0007203655013,0007203655013,Harris Teeter Sharp Cheddar Cheese,Harris Teeter,Dairy,2.99,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10
+0007203655024,0007203655024,Harris Teeter Shredded Sharp Cheddar Cheese,Harris Teeter,Dairy,2.99,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11
+0003450015150,0003450015150,Land O' Lakes Land O Lakes Unsalted Butter Sticks,Land O' Lakes,Dairy,4.99,4 sticks / 16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12
+0007203659021,0007203659021,Harris Teeter® Unsalted Butter Quarters,Harris Teeter,Dairy,3.59,4 ct / 16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13
+0085997700527,0085997700527,Good Culture® Simply Cottage Cheese 2% Milkfat,Good Culture,Dairy,4.59,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14
+0007203673850,0007203673850,Harris Teeter™ Small Curd Cottage Cheese,Harris Teeter,Dairy,3.69,24 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15
+0020895500000,0020895500000,Harris Teeter Boneless Chicken Breast Value Pack,Harris Teeter,Protein,2.99,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16
+0020895300000,0020895300000,Harris Teeter Boneless Skinless Chicken Breasts Small Pack,Harris Teeter,Protein,4.99,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17
+0020898900000,0020898900000,Smart Chicken® Fresh Boneless Chicken Breast,Smart Chicken,Protein,6.99,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18
+0020027600000,0020027600000,"Harris Teeter 80% Lean Premium Ground Beef - Available 10 am - 7 pm, Pricing May Vary Due To Weight",Harris Teeter,Protein,4.99,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19
+0020166000000,0020166000000,Harris Teeter Rancher™ 93% Lean / 7% Fat Ground Beef Value Pack,Harris Teeter,Protein,7.49,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20
+0020027800000,0020027800000,Harris Teeter Lean 93% Ground Beef,Harris Teeter,Protein,7.99,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21
+0082969600053,0082969600053,Wild Planet Albacore Wild Tuna,Wild Planet,Protein,5.29,5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22
+0004800000245,0004800000245,Chicken of the Sea Chunk Light Tuna In Water,Chicken of the Sea,Protein,1.09,5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23
+0008000049564,0008000049564,StarKist Chunk Light Tuna in Water Can,StarKist,Protein,5.69,4 pk / 5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24
+0004800001475,0004800001475,"Chicken of the Sea Wild Caught Alaskan Pink Salmon, Traditional Style",Chicken of the Sea,Protein,5.39,14.75 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25
+0004800000086,0004800000086,"Chicken of the Sea Wild Caught Alaskan Pink Salmon, Skinless & Boneless",Chicken of the Sea,Protein,1.5,5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,26
+0005150025565,0005150025565,Jif Creamy Natural Peanut Butter,Jif,Protein,2.5,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27
+0007203671346,0007203671346,Harris Teeter Creamy Peanut Butter 16 oz,Harris Teeter,Protein,2.0,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28
+0005150024177,0005150024177,Jif Creamy Peanut Butter,Jif,Protein,6.29,28 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29
+0020596500000,0020596500000,Boar's Head Ovengold Roasted Turkey Breast,Boar's Head,Protein,15.99,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30
+0004222233641,0004222233641,JENNIE-O OVEN READY Boneless Turkey Breast - 2.75 lb.,Jennie-O,Protein,16.99,varied wt. 2.75lb (44 oz),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,31
+0001111012212,0001111012212,Simple Truth Organic® Low Sodium Black Beans,Simple Truth Organic,Legumes,1.33,15 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32
+0007203698078,0007203698078,Harris Teeter™ Black Beans,Harris Teeter,Legumes,1.09,15.25 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33
+0003940001880,0003940001880,Bush's Best Bush's Black Beans 15 oz,Bush's Best,Legumes,1.25,15 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34
+0007203641115,0007203641115,Harris Teeter™ Light Red Kidney Beans,Harris Teeter,Legumes,1.09,15.5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,35
+0007203674416,0007203674416,Harris Teeter® No Salt Added Light Red Kidney Beans,Harris Teeter,Legumes,1.09,15.5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,36
+0007203674417,0007203674417,Harris Teeter® Garbanzo Beans Chick Peas,Harris Teeter,Legumes,1.09,15 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37
+0007203641993,0007203641993,Harris Teeter Garbanzo Beans,Harris Teeter,Legumes,1.09,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,38
+0007203642074,0007203642074,Harris Teeter™ Dry Lentils,Harris Teeter,Legumes,1.89,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39
+0001111086292,0001111086292,Simple Truth Organic® Dry Green Lentils,Simple Truth Organic,Legumes,3.59,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40
+0001111082294,0001111082294,Simple Truth Organic® Extra Firm Tofu Twin Pack,Simple Truth Organic,Legumes,2.99,2 ct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41
+0001111091342,0001111091342,Simple Truth Organic® Extra Firm Tofu,Simple Truth Organic,Legumes,3.0,14 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42
+0007203698718,0007203698718,Harris Teeter® Brown Rice,Harris Teeter,Grains,1.79,2 lbs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43
+0007203673690,0007203673690,Harris Teeter® 90 Second Brown Rice,Harris Teeter,Grains,1.99,8.8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44
+0001740010078,0001740010078,"Success Boil-in-Bag Whole Grain Brown Rice, Non-GMO, Gluten-Free, , 4 Pre-Portioned Bags",Success,Grains,3.59,14 onz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45
+0001111002805,0001111002805,Simple Truth Organic® 100% Whole Grain Rolled 1 Minute Oats,Simple Truth Organic,Grains,3.69,18 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,46
+0003000058008,0003000058008,Quaker® Protein Old Fashioned Rolled Oats,Quaker,Grains,5.29,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47
+0003997803375,0003997803375,Bob's Red Mill Gluten Free Old Fashioned Rolled Oats,Bob's Red Mill,Grains,10.39,32 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48
+0007225003712,0007225003712,Nature's Own 100% Whole Wheat Bread,Nature's Own,Grains,4.59,20 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49
+0007341001375,0007341001375,Arnold 100% Whole Grain Wheat Bread,Arnold,Grains,2.64,24 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50
+0007203690012,0007203690012,Harris Teeter® 100% Whole Wheat Sliced Bread,Harris Teeter,Grains,2.5,20 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51
+0007680828008,0007680828008,"Barilla Spaghetti Pasta, Quality Non-GMO and Kosher Certified Pasta",Barilla,Grains,1.33,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,52
+0074747910018,0074747910018,Rao'S Homemade® Thin Spaghetti Pasta,Rao's,Grains,2.5,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53
+0001740014075,0001740014075,Success Boil-in-Bag Tri-Color Quinoa,Success,Grains,3.39,12 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54
+0001111091238,0001111091238,Simple Truth Organic® Quinoa,Simple Truth Organic,Grains,4.99,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,55
+0002392390002,0002392390002,Earth's Best Organic Whole Grain Multi-Grain Baby Cereal,Earth's Best,Grains,4.99,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56
+0007203674278,0007203674278,Harris Teeter® Whole Grain Raisin Bran Cereal,Harris Teeter,Grains,3.0,18.7 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,57
+0007127940741,0007127940741,Fresh Express® Gourmet Fresh Salad® Spinach & Bacon Salad Kit,Fresh Express,Produce,4.99,4.8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58
+0007203688213,0007203688213,Baby Spinach Bag,,Produce,3.0,6 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,59
+0000000003082,0000000003082,Fresh Broccoli & Cauliflower Broccoli Crown,Fresh Broccoli & Cauliflower,Produce,2.29,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60
+0001111091659,0001111091659,Simple Truth Organic® Cut and Peeled Baby Carrots Bag,Simple Truth Organic,Produce,2.49,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,61
+0007878352451,0007878352451,Cal-Organic™ Organic Shredded Carrots Bag,Cal-Organic,Produce,3.99,10 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62
+0000000094011,0000000094011,Fresh Bananas Fresh Bunch of Organic Bananas – 5-7 Bananas,Fresh Bananas,Produce,0.79,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63
+0000000004011,0000000004011,Fresh Bananas Fresh Bunch of Bananas – 5-7 Bananas,Fresh Bananas,Produce,0.55,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64
+0001111018188,0001111018188,Harris Teeter Farmers Market Fuji Apples - 3 Pound Bag,,Produce,3.99,3 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65
+0001111018999,0001111018999,Simple Truth Organic® Pink Lady Apples – 2 Pound Bag,Simple Truth Organic,Produce,5.49,2 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66
+0000000004816,0000000004816,Fresh Potatoes Sweet Potato,Fresh Potatoes,Produce,1.69,1 lb,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67
+0063888212577,0063888212577,Stahlbush Island Farms Sweet Potatoes,Stahlbush Island Farms,Produce,3.99,10 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,68
+0000000004627,0000000004627,Kale Lettuce Bunch,,Produce,2.69,1 ct,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69
+0001111018170,0001111018170,Kale Bag,,Produce,2.99,16 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,70
+0003338322101,0003338322101,Fresh Berries Fresh Blueberries - 1 PT Clamshell,Fresh Berries,Produce,6.49,1 pt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71
+0003338322241,0003338322241,Fresh Berries Fresh Blueberries - 18 OZ - Clamshell,Fresh Berries,Produce,9.99,18 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72
+0007203671652,0007203671652,Harris Teeter™ Sweet Green Peas,Harris Teeter,Frozen,1.79,12 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,73
+0001111001098,0001111001098,Simple Truth Organic Simple Truth® Frozen Green Peas,Simple Truth Organic,Frozen,3.19,12 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74
+0007203671712,0007203671712,Harris Teeter™ Steamable Baby Broccoli Florets,Harris Teeter,Frozen,1.67,12 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75
+0001450002183,0001450002183,"Birds Eye Steamfresh Broccoli Florets, Frozen Vegetables",Birds Eye,Frozen,2.79,10.800 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76
+0007203671663,0007203671663,Harris Teeter® Steamable Mixed Vegetables,Harris Teeter,Frozen,1.25,12 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77
+0001450002128,0001450002128,"Birds Eye Steamfresh Mixed Vegetables, Frozen Vegetables",Birds Eye,Frozen,2.58,10 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,78
+0082471033315,0082471033315,Pier 33 Gourmet Boneless Skin-On Farmed Atlantic Salmon Portions,Pier 33 Gourmet,Frozen,15.99,24 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,79
+0084020800000,0084020800000,Premier Packing Frozen Wild Alaska Sockeye Salmon Portions,,Frozen,19.99,24 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,80
+0001111003553,0001111003553,Simple Truth Organic® Frozen Edamame,Simple Truth Organic,Frozen,3.19,12 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,81
+0007056097871,0007056097871,Pictsweet Farms® Steam'ables® Frozen Shelled Edamame,Pictsweet Farms,Frozen,3.0,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,82
+0007203641072,0007203641072,Harris Teeter® Petite Diced Tomatoes,Harris Teeter,Canned,1.39,14.5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,83
+0007203641055,0007203641055,Harris Teeter® Diced Tomatoes,Harris Teeter,Canned,1.39,14.5 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,84
+0007203641182,0007203641182,Harris Teeter® No Salt Added Supersweet Golden Whole Kernel Corn,Harris Teeter,Canned,1.49,15.25 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85
+0007203641181,0007203641181,Harris Teeter™ Supersweet Whole Kernel Golden Corn,Harris Teeter,Canned,1.49,15.25 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86
+0002700039005,0002700039005,Hunt's Tomato Sauce,Hunt's,Canned,0.99,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,87
+0007203641210,0007203641210,Harris Teeter™ Tomato Sauce,Harris Teeter,Canned,0.79,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,88
+0007203632014,0007203632014,Harris Teeter Extra Virgin Olive Oil,Harris Teeter,Pantry,6.99,16.9 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,89
+0007203631060,0007203631060,Harris Teeter® Extra Virgin Olive Oil,Harris Teeter,Pantry,8.99,26 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90
+0007203673502,0007203673502,Harris Teeter™ Lightly Salted Roasted Almonds,Harris Teeter,Pantry,4.99,9 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,91
+0007203673505,0007203673505,Harris Teeter™ Natural Whole Almonds,Harris Teeter,Pantry,4.99,9 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,92
+0007203673968,0007203673968,Harris Teeter™ Walnuts Halves and Pieces,Harris Teeter,Pantry,5.99,8 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,93
+0007203688114,0007203688114,Harris Teeter Farmers Market™ Walnut Meats,Harris Teeter,Pantry,5.0,10 oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94
+0002500013678,0002500013678,Simply® Pulp-Free Orange Juice Bottle,Simply,Beverages,5.49,46 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,95
+0007203673270,0007203673270,Harris Teeter™ Original No Pulp 100% Orange Juice,Harris Teeter,Beverages,4.49,52 fl oz,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96
+0007203698756,0007203698756,Harris Teeter Unsweetened Vanilla Almondmilk,Harris Teeter,Beverages,2.99,1/2 gal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97
+0007203670735,0007203670735,Harris Teeter™ Original Unsweetened Almondmilk,Harris Teeter,Beverages,2.99,1/2 gal,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,98

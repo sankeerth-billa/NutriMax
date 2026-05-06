@@ -1,0 +1,37 @@
+NutriMax Kroger Dataset Report
+==================================================
+Generated : 2026-05-06 15:00
+ZIP code  : 20707
+Total items    : 98
+With prices    : 98
+With nutrition : 0
+Price range    : $0.55 - $19.99
+Avg price      : $4.26
+
+BY CATEGORY
+  Protein         16 items
+  Dairy           15 items
+  Grains          15 items
+  Produce         15 items
+  Legumes         11 items
+  Frozen          10 items
+  Canned          6 items
+  Pantry          6 items
+  Beverages       4 items
+
+TOP 15 BY NUTRITION SCORE
+  Simple Truth Organic® Vitamin D Whole Mi  score=0.0000  $6.99
+  Organic Valley® Whole Milk Gallon         score=0.0000  $8.99
+  Harris Teeter™ Vitamin D Whole Milk Gall  score=0.0000  $4.39
+  Harris Teeter Large White Eggs            score=0.0000  $2.99
+  Eggland's Best Classic Large White Eggs,  score=0.0000  $4.69
+  Harris Teeter Large Grade A White Eggs    score=0.0000  $2.29
+  Oikos Triple Zero Vanilla High Protein N  score=0.0000  $6.19
+  Oikos Triple Zero Vanilla High Protein N  score=0.0000  $7.49
+  Chobani® Whole Milk Plain Greek Yogurt T  score=0.0000  $5.00
+  Harris Teeter Sharp Cheddar Cheese        score=0.0000  $2.99
+  Harris Teeter Shredded Sharp Cheddar Che  score=0.0000  $2.99
+  Land O' Lakes Land O Lakes Unsalted Butt  score=0.0000  $4.99
+  Harris Teeter® Unsalted Butter Quarters   score=0.0000  $3.59
+  Good Culture® Simply Cottage Cheese 2% M  score=0.0000  $4.59
+  Harris Teeter™ Small Curd Cottage Cheese  score=0.0000  $3.69
