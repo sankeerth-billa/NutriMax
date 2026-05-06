@@ -1,0 +1,5 @@
+requests
+pandas
+thefuzz
+python-Levenshtein
+anthropic
